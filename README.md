@@ -82,18 +82,21 @@ https://courses.bootcampspot.com/courses/1251/assignments/25277?module_item_id=5
     * Short = 3 
     * Long = 100
     * 3 Month Window
+      * This model produced similar results to the new model that I chose to use linear regression.  This baseline model had a recall of .95 for the 1.0 signal. 
       * <img src="Resources/images/3-100-3.png">
   
   * Tuned Baseline Model
     * Short = 12 
     * Long = 120
     * 6 Month Window
+      * This was the best performing model with a recall of .99 for the 1.0 signal. 
       * <img src="Resources/images/12-120-6.png">
   
   * New Model
     * Short = 3 
     * Long = 100
     * 3 Month Window
+      * This new model using linear regression performed the worst of the 3 with a recall of .66 for the 1.0 signal. 
       * <img src="Resources/images/new_model_3-100-3.png">
   * New Model Plot
       * <img src="Resources/images/new_model_actual-vs-strategy.png">
