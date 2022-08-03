@@ -1,15 +1,10 @@
-# Fintech-Challenge_14
-Module 14 Challenge
 
 
+## Algorithmic Trading Bot
 
-# Module 14 Algorithm
+In this project, I assumed the role of a financial advisor at one of the top five financial advisory firms in the world. My firm constantly competes with the other major firms to manage and automatically trade assets in a highly dynamic environment. In recent years, the firm has heavily profited by using computer algorithms that can buy and sell faster than human traders.
 
-## Challenge: Algorithmic Trading Bot
-
-In this Challenge, you’ll assume the role of a financial advisor at one of the top five financial advisory firms in the world. Your firm constantly competes with the other major firms to manage and automatically trade assets in a highly dynamic environment. In recent years, your firm has heavily profited by using computer algorithms that can buy and sell faster than human traders.
-
-The speed of these transactions gave your firm a competitive advantage early on. But, people still need to specifically program these systems, which limits their ability to adapt to new data. You’re thus planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, you’ll enhance the existing trading signals with machine learning algorithms that can adapt to new data.
+The speed of these transactions gave the firm a competitive advantage early on. But, people still need to specifically program these systems, which limits their ability to adapt to new data. I'm planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, I enhanced the existing trading signals with machine learning algorithms that can adapt to new data.
 
      
 
@@ -60,19 +55,18 @@ The speed of these transactions gave your firm a competitive advantage early on.
 ## Usage
 
 
-* This challenge consists of three technical deliverables. You will do the following:
+* This project consists of the following:
 
-      * Implement an algorithmic trading strategy that uses machine learning to automate the trade decisions.
+      * Implements an algorithmic trading strategy that uses machine learning to automate the trade decisions.
 
-      * Adjust the input parameters to optimize the trading algorithm.
+      * Adjusts the input parameters to optimize the trading algorithm.
 
-      * Train a new machine learning model and compare its performance to that of a baseline model.
+      * Trains a new machine learning model and compares its performance to that of a baseline model.
 
 
 
 >
-> Available at:
-https://courses.bootcampspot.com/courses/1251/assignments/25277?module_item_id=511889
+
 
 
 ## Results
